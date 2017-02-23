@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Niru</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="niru_says">Niru says!</string>
+    <string name="your_turn">Your turn!</string>
+    <string name="normal">Normal: %1$d </string>
+    <string name="hard">Hard: %1$d</string>
+
+</resources>
